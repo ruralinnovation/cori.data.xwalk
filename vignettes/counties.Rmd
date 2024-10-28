@@ -136,6 +136,8 @@ Connecticut's Councils of Governments (COGs) are County Equivalent Entities (See
 
 The notice of the Census bureau (@noauthor_change_2022) is a good read and go bit deeper on it (not only counties but also National standard county code)
 
+On the ACS side the [ACS 5-years]( https://acsdatacommunity.prb.org/discussion-forum/f/forum/1266/new-connecticut-counties-er-regions) (2022) and now ACS 1 year will use the nine COGs.
+
 ## Summary:
 
 So far the options are:
