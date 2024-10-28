@@ -1,18 +1,19 @@
 ---
 title: "counties"
 output: rmarkdown::html_vignette
+bibliography: US_boundaries.bib
 vignette: >
   %\VignetteIndexEntry{counties}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
 
-References: [here](https://www.census.gov/programs-surveys/geography/technical-documentation/county-changes.2020.html#list-tab-957819518)
+From the Census Website (@bureau_substantial_nodate): 
 
 > Substantial county boundary changes are those affecting an estimated population of 200 or more; 
 > changes of at least one square mile where an estimated population number was not available, 
 > but research indicated that 200 or more people may have been affected; 
-> and annexations of unpopulated territory of at least 10 square miles
+> and annexations of unpopulated territory of at least 10 square miles 
 
 Hence they are two conditions to motivate change in county boundary: 
 
@@ -133,6 +134,8 @@ They can be find here: https://www2.census.gov/geo/tiger/TIGER1992/ and are in t
 
 Connecticut's Councils of Governments (COGs) are County Equivalent Entities (See [link](https://www2.census.gov/geo/pdfs/reference/ct_county_equiv_change.pdf)).
 
+The notice of the Census bureau (@noauthor_change_2022) is a good read and go bit deeper on it (not only counties but also National standard county code)
+
 ## Summary:
 
 So far the options are:
@@ -151,3 +154,5 @@ The US Census utilize this way to describe those changes:
 - Substantial County or County Equivalent Entity Boundary Changes
 
 - Name and/or Code Changes or Corrections for Counties or County Equivalent Entities (Ex LaSalle -> La Salle)
+
+## References
